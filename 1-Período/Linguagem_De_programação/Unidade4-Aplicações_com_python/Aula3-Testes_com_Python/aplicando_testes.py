@@ -38,9 +38,10 @@ class TestSumNumbers(unittest.TestCase):
     def test_sum_numbers_mixed(self):
         self.assertEqual(sum_numbers([-1, 0 ,1]), 0)
     
-    def teste_sum_numbers_empty(self):
+    def test_sum_numbers_empty(self):
         self.assertEqual(sum_numbers([]), 0)
 
 if __name__ == '__main__':
-    unittest.main(argv=['first-arg-is-ignored'], exit=False)
-    print("Os testes foram executados com sucesso!")
+    result = unittest.main(argv=['first-arg-is-ignored'], exit=False)
+    if result.result.wasSuccessful():
+        print("Os testes foram executados com sucesso!")
