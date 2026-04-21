@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+
+<signos>
+  <signo>
+   <dataInicio>21/03</dataInicio>
+   <dataFim>20/04</dataFim>
+   <signoNome>Áries</signoNome>
+   <descricao>Áries é um signo de iniciativa, coragem e liderança. Pessoas arianas costumam ser determinadas, diretas e gostam de desafios.</descricao>
+  </signo>
+
+  <signo>
+   <dataInicio>21/04</dataInicio>
+   <dataFim>20/05</dataFim>
+   <signoNome>Touro</signoNome>
+   <descricao>Touro é conhecido pela persistência e estabilidade. Pessoas taurinas valorizam conforto, segurança e são bastante determinadas.</descricao>
+  </signo>
+
+  <signo>
+   <dataInicio>21/05</dataInicio>
+   <dataFim>20/06</dataFim>
+   <signoNome>Gêmeos</signoNome>
+   <descricao>Gêmeos é um signo comunicativo e curioso. Pessoas geminianas são versáteis, inteligentes e gostam de aprender coisas novas.</descricao>
+  </signo>
+
+  <signo>
+   <dataInicio>21/06</dataInicio>
+   <dataFim>22/07</dataFim>
+   <signoNome>Câncer</signoNome>
+   <descricao>Câncer é um signo emocional e protetor. Pessoas cancerianas são sensíveis, cuidadosas e muito ligadas à família.</descricao>
+  </signo>
+
+  <signo>
+   <dataInicio>23/07</dataInicio>
+   <dataFim>22/08</dataFim>
+   <signoNome>Leão</signoNome>
+   <descricao>Leão é um signo de liderança e carisma. Pessoas leoninas são confiantes, criativas e gostam de se destacar.</descricao>
+  </signo>
+
+  <signo>
+   <dataInicio>23/08</dataInicio>
+   <dataFim>22/09</dataFim>
+   <signoNome>Virgem</signoNome>
+   <descricao>Virgem é um signo detalhista e organizado. Pessoas virginianas são práticas, analíticas e gostam de tudo bem planejado.</descricao>
+  </signo>
+
+  <signo>
+   <dataInicio>23/09</dataInicio>
+   <dataFim>22/10</dataFim>
+   <signoNome>Libra</signoNome>
+   <descricao>Libra é um signo que busca equilíbrio e harmonia. Pessoas librianas são diplomáticas, gentis e valorizam relações.</descricao>
+  </signo>
+
+  <signo>
+   <dataInicio>23/10</dataInicio>
+   <dataFim>21/11</dataFim>
+   <signoNome>Escorpião</signoNome>
+   <descricao>Escorpião é intenso e determinado. Pessoas escorpianas são profundas, estratégicas e muito emocionais.</descricao>
+  </signo>
+
+  <signo>
+   <dataInicio>22/11</dataInicio>
+   <dataFim>21/12</dataFim>
+   <signoNome>Sagitário</signoNome>
+   <descricao>Sagitário é aventureiro e otimista. Pessoas sagitarianas gostam de liberdade, viagens e novos conhecimentos.</descricao>
+  </signo>
+
+  <signo>
+   <dataInicio>22/12</dataInicio>
+   <dataFim>19/01</dataFim>
+   <signoNome>Capricórnio</signoNome>
+   <descricao>Capricórnio é disciplinado e focado. Pessoas capricornianas são responsáveis, ambiciosas e persistentes.</descricao>
+  </signo>
+
+  <signo>
+   <dataInicio>20/01</dataInicio>
+   <dataFim>18/02</dataFim>
+   <signoNome>Aquário</signoNome>
+   <descricao>Aquário é inovador e independente. Pessoas aquarianas são criativas, originais e gostam de pensar no futuro.</descricao>
+  </signo>
+
+  <signo>
+   <dataInicio>19/02</dataInicio>
+   <dataFim>20/03</dataFim>
+   <signoNome>Peixes</signoNome>
+   <descricao>Peixes é sensível e intuitivo. Pessoas piscianas são sonhadoras, empáticas e muito ligadas às emoções.</descricao>
+  </signo>
+
+</signos>

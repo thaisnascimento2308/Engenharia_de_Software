@@ -3,6 +3,8 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 import matplotlib.pyplot as plt
 
+
+
 #Dados de exemplo
 X_train = tf.constant([[1.0], [2.0], [3.0], [4.0]])
 y_train = tf.constant([[2.0], [4.0], [6.0], [8.0]])
@@ -33,9 +35,13 @@ prediction = model.predict(X_new)
 print('Predição:', prediction[0][0])
 
 #Aqui, fazemos uma previsão usando o modelo treinado.
-#Informamos uma nova entrada x_new 
+#Informamos uma nova entrada x_new (5,0) e calculamos a previsão. O resultado é impresso na tela.
 plt.plot(history.history['loss'])
 plt.title('Model Loss Over Training')
 plt.xlabel('Epoch')
 plt.ylabel('Loss')
 plt.show()
+
+#Por fim, plotamos a perda(loss) do modelo ao longo do treinamento. Usamos history.history['loss'] para obter a lista das perdas em cada época.
+#Configuramos o título e rótulos dos eixos e exibimos o gráfico com plt.show().
+#Isso nos permite visualizar como a perda do modelo diminui durante o treinamento, o que é uma indicação do aprendizado do modelo.
